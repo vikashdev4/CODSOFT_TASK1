@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+<img width="1912" height="888" alt="Screenshot 2026-06-22 222220" src="https://github.com/user-attachments/assets/3a8168ed-48c3-43ac-aac4-7ff9750f03bb" /># 🌐 Personal Portfolio Website
 
 A responsive personal portfolio website created using **HTML** and **CSS** to showcase my profile, education, skills, projects, resume, and contact information.
 
@@ -73,6 +73,8 @@ CODSOFT_TASK1/
 * LinkedIn Profile
 
 ## 📸 Project Preview
+![Uploading Screenshot 2026-06-22 222220.png…]()
+
 
 Screenshots of the website are included in this repository.
 
