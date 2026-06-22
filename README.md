@@ -71,13 +71,7 @@ CODSOFT_TASK1/
 * Phone
 * GitHub Profile
 * LinkedIn Profile
-
-## 📸 Project Preview
-![Uploading Screenshot 2026-06-22 222220.png…]()
-
-
-Screenshots of the website are included in this repository.
-
+* 
 ## 🔗 GitHub Repository
 
 Repository Link:
