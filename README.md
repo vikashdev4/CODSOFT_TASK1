@@ -89,10 +89,6 @@ GitHub: https://github.com/vikashdev4
 
 LinkedIn: https://www.linkedin.com/in/vikashdev4/
 
-## 📄 License
-
-This project is created for educational and learning purposes.
-
 ---
 
 ⭐ Thank you for visiting this repository. Feedback and suggestions are always welcome.
