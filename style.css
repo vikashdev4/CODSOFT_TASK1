@@ -1,0 +1,197 @@
+*{
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+.web{
+    background-color: aliceblue;
+}
+h1{
+   color: rgb(183, 89, 22); 
+   background-color: aliceblue;
+   text-align: left;
+   font-size: 40px;
+
+}
+.all{
+    text-align: left;
+}
+h1:hover{
+    background-color: rgb(147, 151, 129);
+    color: blueviolet;
+}
+.all h2{
+    color: darkgoldenrod;
+    background-color: rgb(108, 93, 118);
+    /* text-decoration: rgb(227, 78, 14) underline; */
+    border:2px solid royalblue;
+    border-radius: 15%;
+    display: inline-block;
+    padding: 2px 2px;
+
+   
+}
+#skills ul{
+    padding-left: 15px;
+}
+#contact ul{
+    padding-left: 0;
+    margin-left: 0;
+    list-style-position: inside;
+}
+#education thead{
+    background-color: rgb(11, 184, 72);
+    color: white;
+    text-align: center;
+    font-weight: bold;
+
+}
+#education tbody tr{
+    background-color: rgb(230, 255, 224);
+}
+nav{
+    background-color: #333;
+    /* padding: 8px; */
+     display: inline-block; /*utni hi jagah leta hai inline */
+    padding: 2px 2px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.all h2:hover{
+    color: rgb(217, 7, 7);
+}
+
+nav a:hover{
+    color: yellow;
+}
+header img{
+    border-radius: 50%;
+    border: 3px solid darkgoldenrod;
+}
+.project-card h4{
+color: rgb(244, 78, 7);
+}
+.project-card img{
+   border: 2px solid rgb(38, 224, 13);
+   animation: moye 2s ease-in-out 0.2s 2 normal;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+@keyframes moye{
+   from{
+        border-color: aqua;
+    }
+    to{
+        border-color: chartreuse;
+    }
+}
+.project-card img:hover{
+    transform: scale(1.1);
+}
+.project-card img{
+    transition: transform 0.2s ease;
+    cursor: pointer;
+}
+
+.project-card img:active{
+    transform: scale(1.1);
+}
+#skills li{
+    display: inline-block;
+    background-color: rgb(11, 184, 43);
+    color: white;
+    padding: 8px 15px;
+    margin: 5px;
+    border-radius: 20px;
+    list-style: none;
+    
+}
+#skills ul{
+    padding-left: 0;
+    margin-left: 0;
+}
+table{
+    border-collapse: collapse;
+    /* width: 100%; */
+}
+
+th,td{
+    padding: 10px;
+    text-align: center;
+}
+
+th{
+    background-color: darkgoldenrod;
+    color: white;
+}
+.project-card{
+    background-color: white;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.project-card:hover{  /*hover img ke upar cursor le jana*/
+    transform: scale(1.02); /* le jane se size bada hoga*/
+    transition: 0.3s;/* 0.3s ke liye*/
+}
+footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+html{
+    scroll-behavior: smooth;
+}
+#skills ul li:hover{
+    transform: scale(1.2);
+    transition: 0.3s;
+    
+}
+nav{
+    background-color: #333;
+    padding: 12px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+}
+.project-card{
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.15);
+    margin-bottom: 20px;
+}
+header img{
+    border-radius: 50%;
+    border: 4px solid darkgoldenrod;
+}
+#about p{
+    line-height: 1.8;
+}
+#skills ul{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+    list-style:none;
+    padding:0;
+}
+
+#skills li{
+    background:green;
+    color:white;
+    padding:8px 15px;
+    border-radius:20px;
+}
+.web{
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
