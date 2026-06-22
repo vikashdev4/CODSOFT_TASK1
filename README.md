@@ -82,10 +82,8 @@ Repository Link:
 https://github.com/vikashdev4/CODSOFT_TASK1
 
 ## 🚀 Live Demo
-
-You can host this project using GitHub Pages and add the live link here:
-
-Live Demo: Coming Soon
+Live Website:
+https://vikashdev4.github.io/CODSOFT_TASK1/
 
 ## 👨‍💻 Author
 
